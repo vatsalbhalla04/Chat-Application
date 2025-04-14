@@ -109,7 +109,7 @@ const Header = () => {
                 color: "#fff",
               }}
             >
-              Chat Application
+              Communiq
             </Typography>
 
             <Box sx={{ display: { xs: "block", sm: "none" } }}>
